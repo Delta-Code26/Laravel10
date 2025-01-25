@@ -1,3 +1,32 @@
+# Sistem Informasi Rekap Panen Sawit dan Gaji Karyawan
+
+Sistem Informasi ini dibuat untuk mengelola data rekap panen sawit dan gaji karyawan di perkebunan kelapa sawit. Proyek ini menggunakan Laravel versi 10 untuk backend, MySQL untuk basis data, dan Material UI untuk antarmuka pengguna.
+
+## Fitur Utama
+- **Halaman Login dan Register**: Pengguna dapat mendaftar dan login untuk mengakses sistem.
+- **Dashboard Admin**: Untuk manajemen data pengguna, panen sawit, dan gaji karyawan.
+- **Dashboard Pekerja (Petani)**: Untuk melihat data terkait panen sawit dan gaji mereka.
+- **Pengelolaan Data**: Admin dapat menambah, mengedit, dan menghapus data pekerja, panen, dan gaji.
+
+## Prasyarat
+
+Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut yang terinstal di komputer Anda:
+
+- PHP 8.1 atau lebih tinggi
+- Composer
+- MySQL atau MariaDB
+- Node.js dan npm (untuk mengelola frontend)
+
+## Langkah-langkah Instalasi
+
+### 1. Kloning repositori
+```bash
+git clone https://github.com/username/repository-name.git
+cd repository-name
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
